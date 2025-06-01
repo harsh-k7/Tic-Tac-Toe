@@ -45,8 +45,7 @@ This is a simple **Tic Tac Toe game** written in C++ using basic functions, loop
 
 ## 📸 Demo
 
-🎥 [Watch the demo video here](https://your-video-link.com)  
-*(Optional — you can upload to Google Drive, YouTube, or GitHub itself)*
+🎥 [Watch the demo video here](https://drive.google.com/file/d/1A_T5ZwYKs6WaGuKVwsII_H39nOJfsrLn/view?usp=sharing)  
 
 ---
 
@@ -59,13 +58,6 @@ This is a simple **Tic Tac Toe game** written in C++ using basic functions, loop
 - The value of starting small and finishing what you start 💪
 
 ---
-
-## 📈 Future Improvements
-
-- Add replay functionality
-- Track scores across rounds
-- Create an AI opponent (Minimax or random)
-- Build a GUI version using SFML or Qt
 
 ---
 
